@@ -1,3 +1,4 @@
+// ERRADOOOOOOOOOOOOOOOOOOOOOOOOOOO
 /* Sessao function */
 function maior(numero1, numero2) {
     for (var i = 1; i <= 5; i++) {
@@ -8,7 +9,7 @@ function maior(numero1, numero2) {
     return numero1
 }
 function menor(numero2, numero3) {
-    for (var i = 1; i <= 5; i++) {
+    for (var i = 2; i <= 5; i++) {
         if (numero2 < numero3) {
             numero3 = numero2;
         }
