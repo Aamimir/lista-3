@@ -1,2 +1,2 @@
 # lista-3
-alguma coisa
+Lista de exercicios canarozo
