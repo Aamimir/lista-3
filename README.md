@@ -1,2 +1,2 @@
 # lista-3
-Lista de exercicios canarozo
+lista de exercicio do curso aprendendo js.
